@@ -1,4 +1,3 @@
-package rectangle;
 
 // Rectangle.java
 public class Rectangle {
