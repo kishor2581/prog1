@@ -1,4 +1,4 @@
-package rectangle;
+
 // RectanglePerimeter.java
 public class RectanglePerimeter {
     // Attributes
